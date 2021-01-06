@@ -24,6 +24,6 @@ class HelloWorld
 ```
 ## Output
 
-```
+```java
 Hello World!
 ```
