@@ -4,7 +4,7 @@
 
 Here we will see the basic syntax of a java program In the first program we print `Hello, Wolrd!`.</br>
 
-
+### Input
 ```java
 //Program to print Hello World
 
