@@ -1,9 +1,8 @@
-## Hello World
-# Program to print Hello World in Java
+![](https://img.shields.io/badge/Java_Basic_Program-informational?style=for-the-badge&color=2bbc8a)
+### Hello World
+# Java program to print "Hello, World!" in Java
 
-Here we will see the basic syntax of a java program In the first program we print `Hello, Wolrd!`.
-
-## Input
+Here we will see the basic syntax of a java program In the first program we print `Hello, Wolrd!`.</br>
 
 
 ```java
@@ -22,7 +21,7 @@ class HelloWorld
     
 } //end of the class
 ```
-## Output
+### Output
 
 ```java
 Hello World!
