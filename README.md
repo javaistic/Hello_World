@@ -1,7 +1,7 @@
 ## Hello World
 # Program to print Hello World in Java
 
-Here we will see the basic syntax of a java program In the first program we print `Hello Wolrd`.
+Here we will see the basic syntax of a java program In the first program we print `Hello, Wolrd!`.
 
 ## Input
 
