@@ -8,7 +8,7 @@ class HelloWorld
     { //start of main() method
     
         System.out.println("Hello, World!");//printing Hello World
-        
+        System.out.println("Test");
     } //end of main() method
     
 } //end of the class
